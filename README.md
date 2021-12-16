@@ -92,11 +92,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="30" width="30">
-  </a>
-
-<a href="#" target="_blank">
-    <img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" height="30" width="30">
-  </a>
+</a>
   
  <a href="#" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="30" width="30">
